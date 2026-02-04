@@ -1,2 +1,2 @@
 # Back-end
-java básico
+Repositorio para estudos com java
