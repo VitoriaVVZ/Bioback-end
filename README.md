@@ -17,6 +17,8 @@ Neste repositório você encontrará exemplos e exercícios sobre:
 - Métodos Getters e Setters
 - Estrutura de projetos em Java
 - Exercícios práticos
+- Polimorfismo
+- Interface
 
 ---
 
