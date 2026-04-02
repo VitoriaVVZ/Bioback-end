@@ -1,13 +1,9 @@
 // Conta Corrente
-public class CC extends Conta {
-
-    public CC(int numero, String agencia, String titular, double saldo) {
-        super(numero, agencia, titular, saldo);
-        saldo = saldo - 12;
-    }
-
-    @Override
-    public double calcularTarifaMensal() {
-        return 12.0;
-    }
+public class CC extends Conta{
+  @Override
+    public void calcularTarifaMensal(){
+      setSaldo(getSaldo()-12);
+      System.out.println("Houve um desconto de R$12 da tarifa");
+      exibirSaldo();
+  }
 }
