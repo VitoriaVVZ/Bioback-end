@@ -19,6 +19,7 @@ Neste repositório você encontrará exemplos e exercícios sobre:
 - Exercícios práticos
 - Polimorfismo
 - Interface
+- Enum
 
 ---
 
