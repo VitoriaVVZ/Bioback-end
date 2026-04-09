@@ -16,7 +16,7 @@ Neste repositório você encontrará exemplos e exercícios sobre:
 - Abstração
 - Métodos Getters e Setters
 - Estrutura de projetos em Java
-- Exercícios práticos
+- Atividades práticas
 - Polimorfismo
 - Interface
 - Enum
