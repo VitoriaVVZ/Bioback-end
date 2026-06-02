@@ -21,6 +21,7 @@ Neste repositório você encontrará exemplos e exercícios sobre:
 - Interface
 - Enum
 - JavaFX
+- Spring Boot
 ---
 
 ## 🎯 Objetivo
